@@ -1,10 +1,10 @@
 // import NavbarMenu from '../components/Navbar.jsx';
-const UserHome = () => (
+const ReportHome = () => (
 
   <div>
     {/* <NavbarMenu /> */}
-    <h1>Cuenta Page</h1>
+    <h1>Reporte Page</h1>
   </div>
 );
 
-export default UserHome;
+export default ReportHome;

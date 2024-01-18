@@ -1,4 +1,3 @@
-import React from 'react';
 import NavbarMenu from '../components/Navbar.jsx';
 const HomePage = () => (
 
