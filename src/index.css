@@ -1,4 +1,8 @@
 /* En tu archivo CSS global o en componentes específicos */
+#root{
+padding: 0px;
+text-align: start;
+}
 body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 500;

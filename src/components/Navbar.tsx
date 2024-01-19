@@ -8,9 +8,9 @@ import iconReport from '../imgs/icons/report.svg';
 import iconCoins from '../imgs/icons/coins.svg';
 
 const NavbarMenu = () => (
-  <Navbar  expand="lg" fixed="top" className='nav'>
-    <Navbar.Toggle aria-controls="basic-navbar-nav" />
-
+  <Navbar expand="lg" fixed="top" className='nav'>
+ <Navbar.Toggle aria-controls="basic-navbar-nav" />
+    
     <Navbar.Collapse id="basic-navbar-nav">
       <div className='a-logo'>
         <Navbar.Brand as={Link} to="/">
