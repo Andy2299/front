@@ -19,7 +19,7 @@ const NavbarMenu = () => (
         </Navbar.Brand>
       </div>
       <Nav className="mr-auto">
-        <Nav.Link as={Link} to="/">
+        <Nav.Link as={Link} to="/home">
           <img className='imgIcon' src={iconMap} alt="icon Mapa" />
           Mapa
         </Nav.Link>
